@@ -1,8 +1,7 @@
 ### Hi there 👋
-My name is Nguyễn Công Minh. I'm a Computer Science student in Việt Nam <br>
-I'm learning in both full-stack development and machine learning.<br>
-At the moment, i spend some of my free time building my website and i get to learn new things along the way.
-<br>You can check it out: [here](https://fowe.herokuapp.com/)
+My name is Nguyễn Công Minh. I'm a Software Developerbr>
+I'm experienced mostly in full-stack web development.<br>
+At the moment, i spend some of my free time building web projects and other fields.
 <!--
 **minh-ncm/minh-ncm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
