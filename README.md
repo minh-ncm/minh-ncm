@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Nguyễn Công Minh. I'm a Software Developerbr>
+My name is Nguyễn Công Minh. I'm a Software Developer<br>
 I'm experienced mostly in full-stack web development.<br>
 At the moment, i spend some of my free time building web projects and other fields.
 <!--
